@@ -1,0 +1,21 @@
+baseURL = 'https://blog.sys-adm.in'
+# languageCode = 'en-us'
+languageCode = 'ru-ru'
+theme = 'hugo-blog-awesome'
+title = 'Для Сисадминов и не только. Практика и Истории из жизни. Блог Евгения Гончарова.'
+
+# Theme params
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/m0zgen"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/yevgeniy-goncharov/"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "index.xml"
+
+[params]
+  goToTop = true
